@@ -1,4 +1,0 @@
-This is basic calculator. version1.0
-
-
-Version 2.0
