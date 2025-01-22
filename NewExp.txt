@@ -1,1 +1,3 @@
 We are adding the etxt to know whether echo will append data or rewrite it.
+
+Append 1
