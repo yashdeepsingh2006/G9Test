@@ -1,4 +1,0 @@
-Create a new text file.
-
-
-Added extra text to ruin the nested file, to see whether git will get it or not.
